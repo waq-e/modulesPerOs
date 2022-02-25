@@ -1,0 +1,3 @@
+/home/rpendrick/CLionProjects/Sample/modulesPerOs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rpendrick/CLionProjects/Sample/modulesPerOs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rpendrick/CLionProjects/Sample/modulesPerOs/cmake-build-debug/CMakeFiles/modulesPerOs.dir
