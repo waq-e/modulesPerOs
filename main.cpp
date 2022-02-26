@@ -12,4 +12,7 @@ void foo(const char * x) {
 
 int main() {
     call_foo();
+    int x{1};
+    std::cout << x << std::endl;
+
 }
